@@ -1,0 +1,13 @@
+Cloudflare R2
+
+Token Value: Xf-gsuOhm4rUu9_2Hj5yc43dflmvZ5iqKy2NiW3Q
+
+Access Key ID: 052735048ff3441d52435e81dcd90f23
+
+Secret Access Key: 12436fc32796a2ac5a101f1a28d2d4d8f13655680b22c57cfa9a250b8846eea0
+
+jurisdiction-specific endpoints for S3 clients:: https://51159ff01e1247a31b68933143db0701.r2.cloudflarestorage.com
+
+Hugging Face API Key:
+
+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
